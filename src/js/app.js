@@ -7,7 +7,7 @@ export default class NewField {
     const plaingField = document.querySelector('.board');
     for (let i = 0; i < this.board ** 2; i += 1) {
       const cell = document.createElement('div');
-      cell.classList.add('cell')
+      cell.classList.add('cell');
       plaingField.prepend(cell);
     }
     const cellList = document.getElementsByClassName('cell');
