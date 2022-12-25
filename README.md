@@ -23,7 +23,6 @@ Copyright gfycat.com
 
 [Ссылка на задание](https://github.com/bel-lov/domA)
 
-![CI](https://github.com/bel-lov/domA/actions/workflows/web.yml/badge.svg)
 
 
 
