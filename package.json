@@ -1,5 +1,5 @@
 {
-  "name": "doma",
+  "name": "play-goblin-board",
   "version": "1.0.0",
   "description": "Вы решили развлечься и реализовать некое подобие игры, где гномы (или другие существа), выскакивают из \"отверстий\" и по ним нужно бить молотком:",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bel-lov/domA.git"
+    "url": "git+https://github.com/bel-lov/play-goblin-board.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bel-lov/domA/issues"
+    "url": "https://github.com/bel-lov/play-goblin-board/issues"
   },
-  "homepage": "https://github.com/bel-lov/domA#readme",
+  "homepage": "https://github.com/bel-lov/play-goblin-board#readme",
   "devDependencies": {
     "@babel/core": "^7.20.5",
     "@babel/preset-env": "^7.20.2",
